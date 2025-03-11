@@ -68,8 +68,8 @@ Consider using show() instead of take() when working with DataFrames for better 
 
 ## Video Reference
 
-[Watch Tutorial on my Channel - Youtube](https://youtube.com/shorts/hI75aSypdkE?feature=share)
-[Watch Tutorial on my Channel - Tiktok](https://www.tiktok.com/@pencil_cravon/video/7439175515803585848?lang=en)
+- [Watch Tutorial on my Channel - Youtube](https://youtube.com/shorts/hI75aSypdkE?feature=share)
+- [Watch Tutorial on my Channel - Tiktok](https://www.tiktok.com/@pencil_cravon/video/7439175515803585848?lang=en)
 
 
 
@@ -130,4 +130,4 @@ Consider the cardinality of partition columns and typical query patterns when de
 
 ## Video Reference
 
-[Watch Tutorial on YouTube](#)
+- [Watch Tutorial on my Channel - Tiktok](https://www.tiktok.com/@pencil_cravon/video/7439911254329740600?is_from_webapp=1&sender_device=pc&web_id=7438462705907254840)
